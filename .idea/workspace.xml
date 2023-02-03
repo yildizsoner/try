@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd92b446-f9f8-45de-b014-59b834ba0f6b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,39 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C03_ArraysEqualTest.arrayKiyasla">
-    <configuration name="C01_StringModifyTest.deleteIfItIsInFirstTwoPositionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.C01_StringModifyTest" />
-      <option name="METHOD_NAME" value="deleteIfItIsInFirstTwoPositionTest(java.lang.String,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.C02_FirstTwoLastCharsSameTest" />
-      <option name="METHOD_NAME" value="check_If_First_Two_Last_Two_Are_Same_Test(boolean,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C04_Mock_Islemler_Test.testSirasiniKontrol">
     <configuration name="C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
@@ -108,28 +77,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test05_GroupingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_Mock_Islemler_Test.islemler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.Test05_GroupingTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.C04_Mock_Islemler_Test" />
+      <option name="METHOD_NAME" value="islemler" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Mock_Islemler_Test.testKacDefaCagrildi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.C04_Mock_Islemler_Test" />
+      <option name="METHOD_NAME" value="testKacDefaCagrildi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Mock_Islemler_Test.testSirasiniKontrol" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.C04_Mock_Islemler_Test" />
+      <option name="METHOD_NAME" value="testSirasiniKontrol" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C04_Mock_Islemler_Test.testSirasiniKontrol" />
+        <item itemvalue="JUnit.C04_Mock_Islemler_Test.testKacDefaCagrildi" />
+        <item itemvalue="JUnit.C04_Mock_Islemler_Test.islemler" />
         <item itemvalue="JUnit.C03_ArraysEqualTest.arrayKiyasla" />
         <item itemvalue="JUnit.C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test2" />
-        <item itemvalue="JUnit.C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test" />
-        <item itemvalue="JUnit.C01_StringModifyTest.deleteIfItIsInFirstTwoPositionTest" />
-        <item itemvalue="JUnit.Test05_GroupingTests" />
       </list>
     </recent_temporary>
   </component>
