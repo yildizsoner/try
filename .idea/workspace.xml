@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd92b446-f9f8-45de-b014-59b834ba0f6b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day3/C01_StringModifyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day3/C01_StringModifyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C01_StringModifyTest.deleteIfItIsInFirstTwoPositionTest">
+  <component name="RunManager" selected="JUnit.C03_ArraysEqualTest.arrayKiyasla">
     <configuration name="C01_StringModifyTest.deleteIfItIsInFirstTwoPositionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
@@ -61,49 +60,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test00_TestingExceptions.testException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.Test00_TestingExceptions" />
-      <option name="METHOD_NAME" value="testException" />
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.C02_FirstTwoLastCharsSameTest" />
+      <option name="METHOD_NAME" value="check_If_First_Two_Last_Two_Are_Same_Test(boolean,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test00_TestingExceptions.testException2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.Test00_TestingExceptions" />
-      <option name="METHOD_NAME" value="testException2" />
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.C02_FirstTwoLastCharsSameTest" />
+      <option name="METHOD_NAME" value="check_If_First_Two_Last_Two_Are_Same_Test2(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test00_TestingExceptions.testException3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_ArraysEqualTest.arrayKiyasla" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.Test00_TestingExceptions" />
-      <option name="METHOD_NAME" value="testException3" />
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.C03_ArraysEqualTest" />
+      <option name="METHOD_NAME" value="arrayKiyasla(boolean,[Ljava.lang.Object;,[Ljava.lang.Object;)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_ArraysEqualTest.arrayKiyasla" />
+        <item itemvalue="JUnit.C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test2" />
+        <item itemvalue="JUnit.C02_FirstTwoLastCharsSameTest.check_If_First_Two_Last_Two_Are_Same_Test" />
         <item itemvalue="JUnit.C01_StringModifyTest.deleteIfItIsInFirstTwoPositionTest" />
         <item itemvalue="JUnit.Test05_GroupingTests" />
-        <item itemvalue="JUnit.Test00_TestingExceptions.testException3" />
-        <item itemvalue="JUnit.Test00_TestingExceptions.testException2" />
-        <item itemvalue="JUnit.Test00_TestingExceptions.testException" />
       </list>
     </recent_temporary>
   </component>
